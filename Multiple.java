@@ -13,6 +13,7 @@ public class Multiple {
 
     public static void main(String[] args) {
         int num2;
+        //Multiples of 2
         for( num2=71; num2<=150; num2++){
             if(num2 % 2==0){
             System.out.println("Multiples of 2");
@@ -21,6 +22,7 @@ public class Multiple {
         }
     }
         int num3;
+        //multiples of 3
         for( num3=71; num3<=150; num3++){
             if(num3 % 3==0){
             System.out.println("Multiples of 3");
@@ -29,6 +31,7 @@ public class Multiple {
         }
     }
         int num7;
+        //multiples of 7
         for( num7=71; num7<=150; num7++){
             if(num7 % 2==0){
             System.out.println("Multiples of 7");
