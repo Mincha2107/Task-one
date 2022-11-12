@@ -16,11 +16,13 @@ public class Oddevennumbers {
     int age;
     public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);
-
+        //Asking user to enter thier sirname
         System.out.print("Enter your sir name ");
         int name = reader.nextInt();
+        //Asking user to enter thier age
          System.out.print("Enter your age ");
         int age = reader.nextInt();
+        //getting odd or even number
          String EvenOdd;
            if(age % 2 == 0)
            EvenOdd = "Even";
