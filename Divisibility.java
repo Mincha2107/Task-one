@@ -30,7 +30,7 @@ public class Divisibility {
         Scanner s = new Scanner(System.in);
         System.out.print("Enter any number:");
         num = s.nextInt();
-        // Checking if remainder is 0 or not when divided by 5
+        // Checking if divisible by 5
         if(num % 5 == 0)
         {
             // Print if number is divisible by 5
