@@ -17,16 +17,16 @@ public class Average {
    //Ask user to enter the first number
   System.out.print("Enter first unit: ");
   int num1 = input.nextInt();
-   //Ask user to enter the first number
+   //Ask user to enter the second number
   System.out.print("Enter second unit: ");
   int num2 = input.nextInt();
-   //Ask user to enter the first number
+   //Ask user to enter the third number
   System.out.print("Enter third unit: ");
   int num3 = input.nextInt();
-   //Ask user to enter the first number
+   //Ask user to enter the fourth number
   System.out.print("Enter fourth unit: ");
   int num4 = input.nextInt();
-  //Ask user to enter the first number
+  //Ask user to enter the fifth number
   System.out.print("Enter fifth unit: ");
   int num5 = input.nextInt();
   //getting average for the total marks
